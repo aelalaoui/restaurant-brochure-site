@@ -25,7 +25,7 @@ const Home = () => {
           </button>
         </div>
         <div className='home-image-container'>
-          <img src={BannerImage} alt='Banner image' />
+          <img src={BannerImage} alt='Banner' />
         </div>
       </div>
     </div>
